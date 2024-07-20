@@ -1,9 +1,6 @@
 # CYB102-Intermediate-Cybersecurity
 An ongoing efforts to I collection the best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources in Cybersecurity.
 
-
-# CYB102 - Intermediate Cybersecurity
-
 ## 📚 Course Description
 In this 10-unit course, students explore the fundamentals of blue-team cybersecurity. Students will learn how to:
 
