@@ -1,9 +1,12 @@
+
 ### README.md
 
 ```markdown
 # Blue Team Defense Lab: Identifying a Rogue User
 
 ## Summary of Lab Exercises
+
+In this lab, you will play the role of a Blue Team member tasked with identifying the source of nefarious activity within a company. Specifically, you will analyze network packets, DHCP logs, and security logs to pinpoint the rogue user who sent sensitive information within the organization. By following the steps outlined in each exercise, you will be able to trace the suspicious activity to a specific user and host device, ultimately identifying the perpetrator.
 
 ### 👥 Exercise 1: Find the IP Address
 
