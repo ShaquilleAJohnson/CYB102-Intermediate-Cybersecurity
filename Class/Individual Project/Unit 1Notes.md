@@ -1,4 +1,5 @@
-Blue Team Defense Concepts - CYB102 Unit 1: Detailed Summary
+##Blue Team Defense Concepts - CYB102 Unit 1: Detailed Summary
+
 Introduction
 The document, part of CYB102 Unit 1, focuses on Blue Team Defense Concepts. It aims to equip participants with the knowledge and skills necessary to defend an organization’s information systems against potential cyber threats. The session includes community guidelines, an agenda, and a series of discussions and activities designed to foster understanding and practical application of blue team defense strategies.
 
